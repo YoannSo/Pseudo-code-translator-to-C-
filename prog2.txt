@@ -1,0 +1,6 @@
+varc , varb : entier
+varb <- 20
+varc <- 10
+Pour i Allant de 10 a 20 Faire
+	varb <- 10 + i
+FinPour

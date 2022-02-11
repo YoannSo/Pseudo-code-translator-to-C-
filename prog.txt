@@ -1,0 +1,8 @@
+varc , varb : entier
+varb <- 50
+varc <- 10
+10 + 10
+Si varc < varb Faire
+	vabZ , varY : entier
+	varZ <- varb - 100
+FinSi

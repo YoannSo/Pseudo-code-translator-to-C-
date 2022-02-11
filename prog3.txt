@@ -1,0 +1,7 @@
+varc , varb : entier
+varb <- 20
+varc <- 10
+Pour temp Allant de 40 a 20 Faire
+	vabZ , varY : entier
+	varZ <- temp + 100
+FinPour
